@@ -38,6 +38,6 @@
 ## Things I want to learn
 
 - How computers work?
-- C, C++, C#, Assembly, Rust, Go, Ruby
+- C, C++, C#, Assembly, Rust, Go
 
 <sub><sup>tada</sub></sup>
