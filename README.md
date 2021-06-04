@@ -40,4 +40,18 @@
 - How computers work?
 - C, C++, C#, Assembly, Rust, Go
 
+<br><br>
+
+<div align="center">
+  
+## Decorations
+  
+[![Streaks](http://github-readme-streak-stats.herokuapp.com?user=DazzGranto&hide_border=true&theme=highcontrast&ring=3498DB&fire=2980B9&currStreakLabel=2980B9&sideNums=3498DB&sideLabels=2980B9&dates=34495E)](https://git.io/streak-stats)
+<br>
+![Stats](https://github-readme-stats.vercel.app/api?username=DazzGranto&hide_border=true&bg_color=000000&icon_color=3498db&text_color=2980b9&count_private=true&show_icons=true&theme=tokyonight&hide_title=true&include_all_commits=true)
+<br>
+![Trophy](https://github-profile-trophy.vercel.app/?username=DazzGranto&theme=onedark&no-frame=true&no-bg=true)
+ 
+</div
+
 <sub><sup>tada</sub></sup>
