@@ -8,7 +8,7 @@
 
 - I don't like literature.
 - I love **math**. Isn't she lovely?
-- I don't have any job. I'm a student.
+- I don't have any job. ~~I'm a student.~~
 
 
 ## 💙 Things I use
