@@ -1,57 +1,48 @@
-![banner](https://user-images.githubusercontent.com/44319650/120120087-d3ab9700-c1a3-11eb-9cdd-b8518a48bb84.png)
+I write
 
-# WELCOME HUMAN 👋
+# I enjoy
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Logitech](https://img.shields.io/badge/Logitech-00B8FC?style=for-the-badge&logo=logitech&logoColor=white)
+![Yamaha Motor](https://img.shields.io/badge/Yamaha-E60012?style=for-the-badge&logo=yamaha-motor-corporation&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
+![NeoVim](https://img.shields.io/badge/NeoVim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Github](https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white)
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![yarn](https://img.shields.io/badge/yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
+![pnpm](https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white)
+![Javascript](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Typescript](https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=firefox&logoColor=white)
+![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=obsidian&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![LibreOffice](https://img.shields.io/badge/LibreOffice-18A303?style=for-the-badge&logo=libreoffice&logoColor=white)
+![GIMP](https://img.shields.io/badge/GIMP-000000?style=for-the-badge&logo=gimp&logoColor=white)
+![Inkscape](https://img.shields.io/badge/Inkscape-5C5543?style=for-the-badge&logo=inkscape&logoColor=white)
+![VLC Media Player](https://img.shields.io/badge/VLC-FF8800?style=for-the-badge&logo=vlc-media-player&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+![Google](https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white)
+[![Fireship](https://img.shields.io/badge/Fireship-EB844E?style=for-the-badge&logo=fireship&logoColor=white)](https://fireship.io)
+![Minecraft](https://img.shields.io/badge/Minecraft-EF323D?style=for-the-badge&logo=mojang-studios&logoColor=white)
+![CurseForge](https://img.shields.io/badge/CurseForge-6441A4?style=for-the-badge&logo=curseforge&logoColor=white)
+![Modrinth](https://img.shields.io/badge/Modrinth-B1361E?style=for-the-badge&logo=modrinth&logoColor=white)
+![DeviantArt](https://img.shields.io/badge/DeviantArt-05CC47?style=for-the-badge&logo=deviantart&logoColor=white)
+![Unsplash](https://img.shields.io/badge/Unsplash-000000?style=for-the-badge&logo=unsplash&logoColor=white)
 
-### I'm Dazz and I love programming languages I don't know.
+![Monkey Iron](https://media.giphy.com/media/ENth1428H9YBO/giphy.gif)
 
-<br>
-
-- I don't like literature.
-- I love **math**. Isn't she lovely?
-- I don't have any job. ~~I'm a student.~~
-
-
-## 💙 Things I use
-<img align="right" src="https://user-images.githubusercontent.com/44319650/120120718-c8f30100-c1a7-11eb-84d8-fee77a1831d7.gif" alt="iron" width="380" height="280">
-
-![javascript](https://user-images.githubusercontent.com/44319650/120122099-87665400-c1af-11eb-880d-59e9045d698d.png)
-![typescript](https://user-images.githubusercontent.com/44319650/120122103-89301780-c1af-11eb-9e4e-a1f066e69794.png)
-![nodejs](https://user-images.githubusercontent.com/44319650/120122105-8a614480-c1af-11eb-957d-42ff8ba2e18b.png)
-![express](https://user-images.githubusercontent.com/44319650/120122106-8c2b0800-c1af-11eb-9285-2a27810ee85b.png)
-![python](https://user-images.githubusercontent.com/44319650/120122109-8e8d6200-c1af-11eb-9e04-ff9e434467de.png)
-![lua](https://user-images.githubusercontent.com/44319650/120122111-8f25f880-c1af-11eb-81d3-f4637edbcff6.png)
-![bash](https://user-images.githubusercontent.com/44319650/120122117-977e3380-c1af-11eb-8bfe-229e9f6096a9.png)
-![vim](https://user-images.githubusercontent.com/44319650/120122118-9947f700-c1af-11eb-935a-ac99780f6242.png)
-![npm](https://user-images.githubusercontent.com/44319650/120122123-9e0cab00-c1af-11eb-9856-7ed25c6defd9.png)
-![yarn](https://user-images.githubusercontent.com/44319650/120122124-9f3dd800-c1af-11eb-89d0-552734ee4d6b.png)
-![git](https://user-images.githubusercontent.com/44319650/120122125-a1079b80-c1af-11eb-95b6-572395e7aa7d.png)
-![ubuntu](https://user-images.githubusercontent.com/44319650/120122130-a664e600-c1af-11eb-815a-91478d9aee71.png)
-![gimp](https://user-images.githubusercontent.com/44319650/120122131-a7961300-c1af-11eb-813c-191784dc10c8.png)
-![inkscape](https://user-images.githubusercontent.com/44319650/120122132-a95fd680-c1af-11eb-99c9-1ab9c27219a6.png)
-![firefox](https://user-images.githubusercontent.com/44319650/120122134-b11f7b00-c1af-11eb-9cb8-0bc4a8c3a3df.png)
-![google](https://user-images.githubusercontent.com/44319650/120122135-b250a800-c1af-11eb-86db-26cfac769d53.png)
-![trello](https://user-images.githubusercontent.com/44319650/120122139-b8468900-c1af-11eb-8220-ecb9305a7777.png)
-![heroku](https://user-images.githubusercontent.com/44319650/120122140-ba104c80-c1af-11eb-9bb8-51c6462d783b.png)
-![mongodb](https://user-images.githubusercontent.com/44319650/120122141-bb417980-c1af-11eb-913a-7e3c15be570d.png)
-<sub>and some little things...</sub>
-
-## Things I want to learn
-
-- How computers work?
-- C, C++, C#, Assembly, Rust, Go
-
-<br><br>
-
-<div align="center">
-  
-## Decorations
-  
-[![Streaks](http://github-readme-streak-stats.herokuapp.com?user=DazzGranto&hide_border=true&theme=highcontrast&ring=3498DB&fire=2980B9&currStreakLabel=2980B9&sideNums=3498DB&sideLabels=2980B9&dates=34495E)](https://git.io/streak-stats)
-<br>
-![Stats](https://github-readme-stats.vercel.app/api?username=DazzGranto&hide_border=true&bg_color=000000&icon_color=3498db&text_color=2980b9&count_private=true&show_icons=true&theme=tokyonight&hide_title=true&include_all_commits=true)
-<br>
-![Trophy](https://github-profile-trophy.vercel.app/?username=DazzGranto&theme=onedark&no-frame=true&no-bg=true)
- 
-</div
-
-<sub><sup>tada</sub></sup>
+<details>
+  <summary>Stats</summary>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dazzgranto&show_icons=true&theme=highcontrast&hide_border=true&locale=en&layout=compact" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=dazzgranto&show_icons=true&theme=highcontrast&hide_border=true&locale=en" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dazzgranto&theme=highcontrast&hide_border=true" />
+</details>
